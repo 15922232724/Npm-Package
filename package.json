@@ -1,11 +1,11 @@
 {
-  "name": "@waltiu/vue-log",
+  "name": "@waltiu/vue-log", 
   "version": "1.0.1",
   "description": "发布一个属于自己的Npm包",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "waltiu",
   "license": "ISC"
 }
